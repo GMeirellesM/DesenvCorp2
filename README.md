@@ -514,7 +514,7 @@ EXEMPLO:
 
 #### DELETE
 
-Deleta umn evento.
+Deleta um evento.
 
 > http://localhost:8080/evento/3
 
@@ -526,8 +526,6 @@ EXEMPLO:
 
 
 ## Curso
-
-The Curso List represents a cluster of recurso entity items.
 
 |Property|Description|
 |--|--|
@@ -542,7 +540,7 @@ The Curso List represents a cluster of recurso entity items.
 
 #### POST
 
-Save a curso.
+Cria um curso.
 
 > http://localhost:8080/curso
 
@@ -562,7 +560,7 @@ EXAMPLE:
 
 #### GET
 
-Retorna a lista completa de  cursos.
+Retorna a lista completa de cursos.
 
 > http://localhost:8080/curso
 
