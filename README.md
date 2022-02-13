@@ -226,7 +226,7 @@ EXEMPLO:
 
 #### GET
 
-Return recursos by an autor.
+Filtra os recursos por autor.
 
 > http://localhost:8080/recurso/autor/1
 
@@ -449,7 +449,7 @@ EXEMPLO:
 
 #### GET
 
-Return evento by period of time.
+Retorna eventos num intervalo de tempo.
 
 > http://localhost:8080/evento/period?dataInicio=2021-12-01&dataFim=2024-12-31
 
